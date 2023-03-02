@@ -1,0 +1,15 @@
+.navbar{
+    background-color: antiquewhite;
+}
+
+.navbar .list-items{
+   list-style: none;
+   display: flex;
+   justify-content: space-between;
+   margin-bottom: 0;
+}
+
+.navbar .list-items .item {
+    margin: 0 10px;
+    font-size: 25px;
+}
